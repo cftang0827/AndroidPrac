@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI計算!!</string>
+    <string name="height">您的身高:</string>
+    <string name="weight">您的體重</string>
+    <string name="input_height">請輸入身高:</string>
+    <string name="input_weight">請輸入體重:</string>
+    <string name="time_view">目前時間:</string>
+    <string name="btnForCal">計算BMI!!!!</string>
+    <string name="title_activity_bmi">BMIActivity</string>
+    <string name="greeting">親愛的~你的BMI算出來囉ㄏㄏ</string>
+    <string name="bmi_result">你的BMI...</string>
+    <string name="thin">你太瘦囉!!!</string>
+    <string name="normal">不錯不錯，正常體重，繼續維持唷</string>
+    <string name="fat">你有點胖胖der要注意</string>
+    <string name="reallyFat">你真的有點太胖惹</string>
+    <string name="godFat">天阿，你他媽超胖</string>
+    <string name="danger">天阿，你很危險</string>
+    <string name="bmi_error_mes">輸入有錯誤，請重新輸入!</string>
+</resources>

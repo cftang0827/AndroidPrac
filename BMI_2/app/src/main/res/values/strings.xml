@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI計算!!</string>
+    <string name="height">請輸入您的身高(公分):</string>
+    <string name="weight">請輸入您的體重(公斤):</string>
+    <string name="cal">計算!!!!!!!!!</string>
+    <string name="result_greeting">您的計算結果:</string>
+    <string name="suggestion">建議!!</string>
+    <string name="thin">你太瘦了，請多吃點!!</string>
+    <string name="normal">好棒棒!你體重正常呢!!</string>
+    <string name="fat">注意囉，要節食了!!</string>
+    <string name="error">出現錯誤囉!!</string>
+    <string name="error1">出現錯誤囉(在BMI)!!</string>
+    <string name="record">Your BMI record: </string>
+
+</resources>

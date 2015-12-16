@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI計算</string>
+    <string name="action_settings">Settings</string>
+    <string name="greeting">我們來計算您的BMI</string>
+    <string name="height">請輸入您的身高</string>
+    <string name="weight">請輸入您的體重</string>
+    <string name="bmi_result">您的體重:</string>
+    <string name="suggestion">建議:</string>
+</resources>
